@@ -1,0 +1,4 @@
+#node modules installation
+
+yarn install
+yarn start
